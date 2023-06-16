@@ -1,7 +1,7 @@
 #pragma once
 #include "IOperator.h"
 
-class Devide : public IOperator
+class Divide : public IOperator
 {
 public:
     virtual float op(float num1, float num2);

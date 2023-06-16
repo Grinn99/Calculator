@@ -1,6 +1,6 @@
-#include "DEVIDE.h"
+#include "Divide.h"
 
-float Devide::op(float num1, float num2)
+float Divide::op(float num1, float num2)
 {
     float res;
     
